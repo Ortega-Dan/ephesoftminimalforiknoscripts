@@ -1,6 +1,6 @@
 # ephesoftminimalforiknoscripts
 
-
+For use in maven:
 
 		<repository>
 			<id>githubrepo</id>
