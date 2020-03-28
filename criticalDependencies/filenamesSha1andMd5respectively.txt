@@ -1,0 +1,8 @@
+# The following hashes were produced with: rhash -HM * 
+# from linux ....
+
+tesseract5forWindows.z01  15e769ad70720ee69b16a76321ce9f42  66cfc7d021857b161618a7fdaba94bda686d884a
+tesseract5forWindows.z02  f171362eff011c3dc010025e40079500  957a55cb125f95c7e6f2ba44b59e81a1da34e174
+tesseract5forWindows.z03  822728dfab5960b9c77342778e89db52  fadcde23480c1cd4b7a7c3683a221b2ff90cc6d1
+tesseract5forWindows.zip  606a880f45d65aa4bda236759a07d88f  9ce108e2482130e554013f7f0fa78193dd7d8be0
+zbarForWindows.zip  444e047088cee6bde025264a9209a6ed  7f3aa0a496c2a5c6f5895b0a0c493427cf8b508e
