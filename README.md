@@ -8,6 +8,7 @@ For use in maven:
 	</repository>
 
 
+
 	<dependency>
 		<groupId>com.ikno.synerscripts</groupId>
 		<artifactId>ephesoftminimaliknoscripts</artifactId>
