@@ -4,7 +4,7 @@ For use in maven:
 
 	<repository>
 		<id>githubrepo</id>
-		<url>https://github.com/Ortega-Dan/ephesoftminimalforiknoscripts/raw/master</url>
+		<url>https://github.com/Ortega-Dan/ephesoftminimalforiknoscripts/blob/master</url>
 	</repository>
 
 
