@@ -13,3 +13,7 @@ For use in maven:
 		<artifactId>ephesoftminimaliknoscripts</artifactId>
 		<version>0.2.0</version>
 	</dependency>
+
+
+Note the repository and this project is ephesoftminimal**FOR**iknoscripts\
+but the jars are just ephesoftminimaliknoscripts
