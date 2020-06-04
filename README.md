@@ -16,4 +16,4 @@ For use in maven:
 
 
 Note the repository and this project is ephesoftminimal**FOR**iknoscripts\
-but the jars are just ephesoftminimaliknoscripts
+but the dependency is just ephesoftminimaliknoscripts (without the **for**)
