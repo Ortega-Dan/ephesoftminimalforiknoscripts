@@ -24,3 +24,12 @@ but the dependency is just ephesoftminimaliknoscripts (without the **for**)
 		<artifactId>GoogleDiffMatchPatch</artifactId>
 		<version>1.0.0</version>
 	</dependency>
+
+
+----------------------------------------
+
+	<dependency>
+		<groupId>org.danort.compiledfromsource</groupId>
+		<artifactId>PdfTkJava</artifactId>
+		<version>3.1.3</version>
+	</dependency>
